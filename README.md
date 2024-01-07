@@ -1,0 +1,2 @@
+# Ghostman
+Pacman but weird
